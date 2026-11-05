@@ -31,10 +31,6 @@ A simple and responsive coffee website built using **HTML5 and CSS3** as part of
 - Adding hover effects.
 - Making websites responsive using media queries.
 
-## 📸 Preview
-
-![Delicious Coffee Website](screenshot.png)
-
 ---
 
 ⭐ This project is part of my Web Development learning journey.
